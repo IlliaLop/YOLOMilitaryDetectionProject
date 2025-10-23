@@ -1,0 +1,3 @@
+Is an app trained with YOLO to detect enemy military equipment in images and videos. The app highlights detected objects on frames and automatically uploads results to your S3 bucket. Once detected, notifications are sent via WhatsApp through Twilio with the snapshot and a brief report. It supports both real-time monitoring and batch processing of pre-recorded footage. Designed for legal and ethical use in monitoring and analysis tasks. Users are responsible for complying with local laws and privacy regulations.
+
+Watch a video demonstrating the app in action: https://drive.google.com/file/d/1bKcuysDTTd-nrOT24TW20s1gQTlFL3iW/view?usp=sharing
